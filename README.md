@@ -1,7 +1,7 @@
 # house_price_prediction
 
 
-This problem statment is taken from[Kaggle competion](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). There are 79 independent variables to predict the "Sale price". I have used Randomforest regressor one of ensemble Technique to predict house price.
+This problem statment is taken from [Kaggle competion](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). There are 79 independent variables to predict the "Sale price". I have used Randomforest regressor one of ensemble Technique to predict house price.
 
 This repository contain 
 * data_descripation.txt           == discripion of the all vaiables
