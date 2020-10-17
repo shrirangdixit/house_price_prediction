@@ -9,7 +9,7 @@ This repository contain
 * testcsv                         == Test data without target (We have to submit the solution for the test)
 * sample_submission.csv           == sample solution for sumbmission on kaggle
 * random_forest_solution          == my predtion formatted in csv
-* house-price-advance-regression-technique.ipynb ==  Jupyter notebook containing EDA, Data preprosessing, Hyperparameter                                                    tunning model
+* house-price-advance-regression-technique.ipynb ==  Jupyter notebook containing EDA, Data preprosessing, Hyperparameter tunning model
 
 
-I secured the score appr. 0.14 on Kaggle with this model
+I secured the score approximately 0.14 on Kaggle with this model
