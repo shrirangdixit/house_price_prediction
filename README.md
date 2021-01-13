@@ -12,4 +12,4 @@ This repository contain
 * house-price-advance-regression-technique.ipynb ==  Jupyter notebook containing EDA, Data preprosessing, Hyperparameter tunning model
 
 
-I secured the score approximately 0.14 on Kaggle with this model
+I secured the score approximately 0.14 on Kaggle with 90 percent acuuracy.
